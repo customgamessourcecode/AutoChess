@@ -1,0 +1,48 @@
+"03"
+        {
+            "Key"       "1"
+            "Command"   "+Select1"
+            "Name"      "Select1"
+        }
+        "04"
+        {
+            "Key"       "2"
+            "Command"   "+Select2"
+            "Name"      "Select2"
+        }
+        "05"
+        {
+            "Key"       "3"
+            "Command"   "+Select3"
+            "Name"      "Select3"
+        }
+        "06"
+        {
+            "Key"       "4"
+            "Command"   "+Select4"
+            "Name"      "Select4"
+        }
+        "07"
+        {
+            "Key"       "5"
+            "Command"   "+Select5"
+            "Name"      "Select5"
+        }
+        "08"
+        {
+            "Key"       "6"
+            "Command"   "+Select6"
+            "Name"      "Select6"
+        }
+        "09"
+        {
+            "Key"       "7"
+            "Command"   "+Select7"
+            "Name"      "Select7"
+        }
+        "10"
+        {
+            "Key"       "8"
+            "Command"   "+Select8"
+            "Name"      "Select8"
+        }

@@ -1,0 +1,68 @@
+// No spaces in event names, max length 32
+// All strings are case sensitive
+//
+// valid data key types are:
+//   string : a zero terminated string
+//   bool   : unsigned int, 1 bit
+//   byte   : unsigned int, 8 bit
+//   short  : signed int, 16 bit
+//   long   : signed int, 32 bit
+//   float  : float, 32 bit
+//   uint64 : unsigned int 64 bit
+//   local  : any data, but not networked to clients
+//
+// following key names are reserved:
+//   local      : if set to 1, event is not networked to clients
+//   unreliable : networked, but unreliable
+//   suppress   : never fire this event
+//   time	: firing server time
+//   eventid	: holds the event ID
+
+"CustomEvents"
+{
+	"show_time"
+	{
+		"timer_round"	"short"
+		"round_status"	"string"
+		"total_time"	"short"
+		"center_index"	"string"
+	}
+	"mima"
+	{
+		"text"		"string"
+	}
+	"add_exp"
+	{
+		"mana"		"short"
+	}
+	"show_cursor_hero_icon"
+	{
+		"unit"		"string"
+	}
+	"play_chess_dialogue"
+	{
+		"unit_name"			"string"
+		"dialogue_type"		"short"
+	}
+	"show_draw_card"
+	{
+		"cards"		"string"
+	}
+	"close_draw_card"
+	{
+	}
+	"show_is_hand_full"
+	{
+		"is_hand_full"	"bool"
+	}
+	"show_gold"
+	{
+		"gold"		"short"
+	}
+	"send_http_cb"
+	{
+		"event"		"string"
+		"data"		"data"
+	}
+}
+

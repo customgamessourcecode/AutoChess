@@ -1,0 +1,323 @@
+"item_recipe_fengkuangmianju"
+	{
+	    "ID"                                        "3001"
+	    "BaseClass"                        "item_recipe_arcane_boots"
+	    "ItemCost"                        "0"        
+	    "ItemShopTags"                ""
+
+	    "ItemRecipe"                 "1" 
+	    "ItemResult"                  "item_fengkuangmianju"
+	    "ItemRequirements"   
+	    {
+	        "01"    "item_xixuemianju;item_duangun"
+	    }
+	}
+	"item_recipe_shengjian"
+	{
+	    "ID"                                        "3002"
+	    "BaseClass"                        "item_recipe_arcane_boots"
+	    "ItemCost"                        "0"        
+	    "ItemShopTags"                ""
+
+	    "ItemRecipe"                 "1" 
+	    "ItemResult"                  "item_shengjian"
+	    "ItemRequirements"   
+	    {
+	        "01"    "item_shengzheyiwu;item_emodaofeng"
+	    }
+	}
+	"item_recipe_qiangxi"
+	{
+	    "ID"                                        "3004"
+	    "BaseClass"                        "item_recipe_arcane_boots"
+	    "ItemCost"                        "0"        
+	    "ItemShopTags"                ""
+
+	    "ItemRecipe"                 "1" 
+	    "ItemResult"                  "item_qiangxi"
+	    "ItemRequirements"   
+	    {
+	        "01"    "item_banjia;item_suozijia;item_zhenfenbaoshi"
+	    }
+	}
+	"item_recipe_longxin"
+	{
+	    "ID"                                        "3005"
+	    "BaseClass"                        "item_recipe_arcane_boots"
+	    "ItemCost"                        "0"        
+	    "ItemShopTags"                ""
+
+	    "ItemRecipe"                 "1" 
+	    "ItemResult"                  "item_longxin"
+	    "ItemRequirements"   
+	    {
+	        "01"    "item_dafu;item_huoliqiu;item_huoliqiu"
+	    }
+	}
+	"item_recipe_renjia"
+	{
+	    "ID"                                        "3006"
+	    "BaseClass"                        "item_recipe_arcane_boots"
+	    "ItemCost"                        "0"        
+	    "ItemShopTags"                ""
+
+	    "ItemRecipe"                 "1" 
+	    "ItemResult"                  "item_renjia"
+	    "ItemRequirements"   
+	    {
+	        "01"    "item_suozijia;item_kuojian"
+	    }
+	}
+	"item_recipe_xianfengdun"
+	{
+	    "ID"                                        "3007"
+	    "BaseClass"                        "item_recipe_arcane_boots"
+	    "ItemCost"                        "0"        
+	    "ItemShopTags"                ""
+
+	    "ItemRecipe"                 "1" 
+	    "ItemResult"                  "item_xianfengdun"
+	    "ItemRequirements"   
+	    {
+	        "01"    "item_huoliqiu;item_yuandun;item_zhiliaozhihuan"
+	    }
+	}
+	"item_recipe_shuijingjian"
+	{
+	    "ID"                                        "3008"
+	    "BaseClass"                        "item_recipe_arcane_boots"
+	    "ItemCost"                        "0"        
+	    "ItemShopTags"                ""
+
+	    "ItemRecipe"                 "1" 
+	    "ItemResult"                  "item_shuijingjian"
+	    "ItemRequirements"   
+	    {
+	        "01"    "item_kuojian;item_gongjizhizhua"
+	    }
+	}
+	"item_recipe_dapao"
+	{
+	    "ID"                                        "3009"
+	    "BaseClass"                        "item_recipe_arcane_boots"
+	    "ItemCost"                        "0"        
+	    "ItemShopTags"                ""
+
+	    "ItemRecipe"                 "1" 
+	    "ItemResult"                  "item_dapao"
+	    "ItemRequirements"   
+	    {
+	        "01"    "item_shuijingjian;item_emodaofeng"
+	    }
+	}
+	"item_recipe_anmie"
+	{
+	    "ID"                                        "3010"
+	    "BaseClass"                        "item_recipe_arcane_boots"
+	    "ItemCost"                        "0"        
+	    "ItemShopTags"                ""
+
+	    "ItemRecipe"                 "1" 
+	    "ItemResult"                  "item_anmie"
+	    "ItemRequirements"   
+	    {
+	        "01"    "item_miyinchui;item_miyinchui;item_kuweishi"
+	    }
+	}
+	"item_recipe_xuanwo"
+	{
+	    "ID"                                        "3011"
+	    "BaseClass"                        "item_recipe_arcane_boots"
+	    "ItemCost"                        "0"        
+	    "ItemShopTags"                ""
+
+	    "ItemRecipe"                 "1" 
+	    "ItemResult"                  "item_xuanwo"
+	    "ItemRequirements"   
+	    {
+	        "01"    "item_miyinchui;item_biaoqiang"
+	    }
+	}
+	"item_recipe_dadianchui"
+	{
+	    "ID"                                        "3012"
+	    "BaseClass"                        "item_recipe_arcane_boots"
+	    "ItemCost"                        "0"        
+	    "ItemShopTags"                ""
+
+	    "ItemRecipe"                 "1" 
+	    "ItemResult"                  "item_dadianchui"
+	    "ItemRequirements"   
+	    {
+	        "01"    "item_xuanwo;item_zhenfenbaoshi"
+	    }
+	}
+	"item_recipe_jingubang"
+	{
+	    "ID"                                        "3013"
+	    "BaseClass"                        "item_recipe_arcane_boots"
+	    "ItemCost"                        "0"        
+	    "ItemShopTags"                ""
+
+	    "ItemRecipe"                 "1" 
+	    "ItemResult"                  "item_jingubang"
+	    "ItemRequirements"   
+	    {
+	        "01"    "item_emodaofeng;item_biaoqiang;item_duangun"
+	    }
+	}
+	"item_recipe_tiaozhantoujin"
+	{
+	    "ID"                                        "3014"
+	    "BaseClass"                        "item_recipe_arcane_boots"
+	    "ItemCost"                        "0"        
+	    "ItemShopTags"                ""
+
+	    "ItemRecipe"                 "1" 
+	    "ItemResult"                  "item_tiaozhantoujin"
+	    "ItemRequirements"   
+	    {
+	        "01"    "item_zhiliaozhihuan;item_huifuzhihuan;item_kangmodoupeng"
+	    }
+	}
+	"item_recipe_yinyuezhijing"
+	{
+	    "ID"                                        "3015"
+	    "BaseClass"                        "item_recipe_arcane_boots"
+	    "ItemCost"                        "0"        
+	    "ItemShopTags"                ""
+
+	    "ItemRecipe"                 "1" 
+	    "ItemResult"                  "item_yinyuezhijing"
+	    "ItemRequirements"   
+	    {
+	        "01"    "item_zhenfenbaoshi;item_zhenfenbaoshi"
+	    }
+	}
+
+	"item_recipe_jianrenqiu"
+	{
+	    "ID"                                        "3016"
+	    "BaseClass"                        "item_recipe_arcane_boots"
+	    "ItemCost"                        "0"        
+	    "ItemShopTags"                ""
+
+	    "ItemRecipe"                 "1" 
+	    "ItemResult"                  "item_jianrenqiu"
+	    "ItemRequirements"   
+	    {
+	        "01"    "item_zhiliaozhihuan;item_xuwubaoshi"
+	    }
+	}
+	"item_recipe_shuaxinqiu"
+	{
+	    "ID"                                        "3017"
+	    "BaseClass"                        "item_recipe_arcane_boots"
+	    "ItemCost"                        "0"        
+	    "ItemShopTags"                ""
+
+	    "ItemRecipe"                 "1" 
+	    "ItemResult"                  "item_shuaxinqiu"
+	    "ItemRequirements"   
+	    {
+	        "01"    "item_jianrenqiu;item_jianrenqiu"
+	    }
+	}
+	"item_recipe_huiguang"
+	{
+	    "ID"                                        "3018"
+	    "BaseClass"                        "item_recipe_arcane_boots"
+	    "ItemCost"                        "0"        
+	    "ItemShopTags"                ""
+
+	    "ItemRecipe"                 "1" 
+	    "ItemResult"                  "item_huiguang"
+	    "ItemRequirements"   
+	    {
+	        "01"    "item_molifazhang;item_fashichangpao"
+	    }
+	}
+	"item_recipe_yangdao"
+	{
+	    "ID"                                        "3019"
+	    "BaseClass"                        "item_recipe_arcane_boots"
+	    "ItemCost"                        "0"        
+	    "ItemShopTags"                ""
+
+	    "ItemRecipe"                 "1" 
+	    "ItemResult"                  "item_yangdao"
+	    "ItemRequirements"   
+	    {
+	        "01"    "item_shenmifazhang;item_jixianfaqiu;item_xuwubaoshi"
+	    }
+	}
+	"item_recipe_hongzhang_1"
+	{
+	    "ID"                                        "3020"
+	    "BaseClass"                        "item_recipe_arcane_boots"
+	    "ItemCost"                        "0"        
+	    "ItemShopTags"                ""
+
+	    "ItemRecipe"                 "1" 
+	    "ItemResult"                  "item_hongzhang_1"
+	    "ItemRequirements"   
+	    {
+	        "01"    "item_molifazhang;item_wangguan"
+	    }
+	}
+	"item_recipe_hongzhang_2"
+	{
+	    "ID"                                        "3021"
+	    "BaseClass"                        "item_recipe_arcane_boots"
+	    "ItemCost"                        "0"        
+	    "ItemShopTags"                ""
+
+	    "ItemRecipe"                 "1" 
+	    "ItemResult"                  "item_hongzhang_2"
+	    "ItemRequirements"   
+	    {
+	        "01"    "item_molifazhang;item_hongzhang_1"
+	    }
+	}
+	"item_recipe_hongzhang_3"
+	{
+	    "ID"                                        "3022"
+	    "BaseClass"                        "item_recipe_arcane_boots"
+	    "ItemCost"                        "0"        
+	    "ItemShopTags"                ""
+
+	    "ItemRecipe"                 "1" 
+	    "ItemResult"                  "item_hongzhang_3"
+	    "ItemRequirements"   
+	    {
+	        "01"    "item_molifazhang;item_hongzhang_2"
+	    }
+	}
+	"item_recipe_hongzhang_4"
+	{
+	    "ID"                                        "3023"
+	    "BaseClass"                        "item_recipe_arcane_boots"
+	    "ItemCost"                        "0"        
+	    "ItemShopTags"                ""
+
+	    "ItemRecipe"                 "1" 
+	    "ItemResult"                  "item_hongzhang_4"
+	    "ItemRequirements"   
+	    {
+	        "01"    "item_molifazhang;item_hongzhang_3"
+	    }
+	}
+	"item_recipe_hongzhang_5"
+	{
+	    "ID"                                        "3024"
+	    "BaseClass"                        "item_recipe_arcane_boots"
+	    "ItemCost"                        "0"        
+	    "ItemShopTags"                ""
+
+	    "ItemRecipe"                 "1" 
+	    "ItemResult"                  "item_hongzhang_5"
+	    "ItemRequirements"   
+	    {
+	        "01"    "item_molifazhang;item_hongzhang_4"
+	    }
+	}

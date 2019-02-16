@@ -1,1 +1,1 @@
-# AutoChess
+This repo has nothing to do with the creator or owners of the custom game. These are the files extracted from the VPK which is downloaded when you subscribe to a custom game. These files are uploaded for educational purposes only.

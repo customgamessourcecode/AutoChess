@@ -31,10 +31,6 @@
 	{
 		"text"		"string"
 	}
-	"add_exp"
-	{
-		"mana"		"short"
-	}
 	"show_cursor_hero_icon"
 	{
 		"unit"		"string"
@@ -63,6 +59,36 @@
 	{
 		"event"		"string"
 		"data"		"data"
+	}
+	"bullet"
+	{
+		"player_id"	"short"
+		"text"		"string"
+		"win"		"string"
+		"draw"		"string"
+		"lose"		"string"
+		"target"	"string"
+	}
+	"sync_hp"
+	{
+		"player_id"	"short"
+		"hp"		"short"
+		"hp_max"	"short"
+	}
+	"population"
+	{
+		"max_count"	"short"
+		"count"		"short"
+	}
+	"battle_info"
+	{
+		"type"		"string"
+		"text"		"string"
+		"round"		"short"
+	}
+	"player_reconnect"
+	{
+		"id" 		"short"
 	}
 }
 

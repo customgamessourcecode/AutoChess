@@ -3,6 +3,7 @@
 {
 	custom_net_tables =
 	[
-		"dac_table"
+		"dac_table",
+		"end_table",
 	]
 }

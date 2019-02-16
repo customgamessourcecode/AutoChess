@@ -59,7 +59,7 @@ TIMERS_VERSION = "1.01"
 
 
 
-TIMERS_THINK = 0.01
+TIMERS_THINK = 0.02
 
 if Timers == nil then
   print ( '[Timers] creating Timers' )

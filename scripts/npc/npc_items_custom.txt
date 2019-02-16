@@ -1244,6 +1244,7 @@
 		"AbilityBehavior"	"DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"AbilityUnitTargetType"	"DOTA_UNIT_TARGET_BASIC"
 		"AbilityUnitTargetTeam"	"DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+		"AbilityCooldown"	"30"
 		"ID"	"1540"
 		"ItemQuality"	"common"
 		"Model"	"models/props_winter/present.vmdl"
@@ -1303,6 +1304,38 @@
 					"MODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS"	"-20"
 				}
 				"Duration"	"5"
+			}
+		}
+	}
+
+	"item_tiaodao"
+	{
+		"BaseClass"	"item_datadriven"
+		"AbilityTextureName"	"item_blink"
+		"AbilityBehavior"	"DOTA_ABILITY_BEHAVIOR_PASSIVE"
+		"AbilityUnitTargetType"	"DOTA_UNIT_TARGET_BASIC"
+		"AbilityUnitTargetTeam"	"DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+		"AbilityCooldown"	"15"
+		"ID"	"1547"
+		"ItemQuality"	"rare"
+		"Model"	"models/props_winter/present.vmdl"
+		"ItemCost"	"999"
+		"ItemDroppable"	"1"
+		"ItemSellable"	"0"
+		"ItemShareability"	"ITEM_FULLY_SHAREABLE"
+		"ItemPurchasable"	"1"
+		"ItemAlertable"	"1"
+		"ItemPermanent"	"1"
+		"ItemRequiresCharges"	"0"
+		"ItemStackable"	"0"
+		"ItemRequirements"	{}
+		"ItemDisassembleRule"	"DOTA_ITEM_DISASSEMBLE_NEVER"
+		"Modifiers"
+		{
+			"modifier_item_tiaodao"
+			{
+				"Passive"	"1"
+				"IsHidden"	"1"
 			}
 		}
 	}
